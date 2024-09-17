@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958492659305",
+    "project_id": "esraa-db457",
+    "storage_bucket": "esraa-db457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958492659305:android:490f6fb88b6914d89d1cf8",
+        "android_client_info": {
+          "package_name": "com.example.esraaaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrAKhbRYeXtnuEMShwfZq_wtobyz9x8t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
